@@ -1,16 +1,16 @@
 # Scottish Gaelic translation for mousetweaks.
 # Copyright (C) 2014 mousetweaks's COPYRIGHT HOLDER
 # This file is distributed under the same license as the mousetweaks package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: mousetweaks master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=mouset"
 "weaks&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-02-24 10:48+0000\n"
-"PO-Revision-Date: 2014-02-24 12:06+0100\n"
+"POT-Creation-Date: 2016-05-05 13:27+0000\n"
+"PO-Revision-Date: 2018-02-23 09:24+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
-"Language-Team: Fòram na Gàidhlig http://www.foramnagaidhlig.net\n"
+"Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../data/mousetweaks.ui.h:1
 msgid "Hover Click"
-msgstr "Fan os a chionn 's briog"
+msgstr "Fan os a chionn ’s briog"
 
 #: ../data/mousetweaks.ui.h:2
 msgid "Single Click"
@@ -32,7 +32,7 @@ msgstr "Aon bhriogadh"
 msgid "Double Click"
 msgstr "Briogadh dùbailte"
 
-#. 'Drag' like in a Drag and Drop operation
+#.
 #: ../data/mousetweaks.ui.h:5
 msgid "Drag"
 msgstr "Slaodadh"
@@ -85,7 +85,7 @@ msgstr "Comhair na h-uinneige briogaidh"
 
 #: ../data/org.gnome.mousetweaks.gschema.xml.in.h:4
 msgid "Orientation of the click-type window."
-msgstr "A' chomhair aig an uinneag briogaidh."
+msgstr "A’ chomhair aig an uinneag briogaidh."
 
 #: ../data/org.gnome.mousetweaks.gschema.xml.in.h:5 ../src/mt-main.c:638
 msgid "Click-type window geometry"
@@ -96,7 +96,7 @@ msgid ""
 "Size and position of the click-type window. The format is a standard X "
 "Window System geometry string."
 msgstr ""
-"Meud agus ionad aig an uinneag briogaidh. 'S e sreang geomatraidh "
+"Meud agus ionad aig an uinneag briogaidh. ’S e sreang geomatraidh "
 "stannardach aig an t-siostam X Windows a tha san fhòrmat."
 
 #: ../src/mt-main.c:624
@@ -146,4 +146,4 @@ msgstr "- Deamhan so-ruigsinneachd luchaige aig GNOME"
 
 #: ../src/mt-common.c:97
 msgid "Failed to Display Help"
-msgstr "Dh'fhàillig le sealltainn na cobharach"
+msgstr "Dh’fhàillig le sealltainn na cobharach"
